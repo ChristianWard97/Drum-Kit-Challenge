@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic+Coding&display=swap');
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(/images/best-drum-set-beginners.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1, h2 {
+    color: white;
+    font-family: 'Nanum Gothic Coding', monospace;
+    text-align: center;
+    font-size: 50px;
+}
+
+.container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+}
+
+.drum{
+color: rgb(44, 44, 44);
+font-size: 60px;
+font-family: 'Nanum Gothic Coding', monospace;
+text-align: center;
+padding: 5px 50px 5px 50px;
+}
+
+#boom{
+    height: auto;
+}
+
+
+#drum1{background: rgb(248, 235, 51);}
+#drum2{background: rgb(223, 159, 40);}
+#drum3{background: rgb(146, 92, 30);}
+#drum4{background: rgb(223, 159, 40);}
+#drum5{background: rgb(146, 92, 30);}
+#drum6{background: rgb(248, 235, 51);}
+#drum7{background: rgb(146, 92, 30);}
+#drum8{background: rgb(248, 235, 51);}
+#drum9{background: rgb(223, 159, 40);}
+
+
